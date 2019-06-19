@@ -28,3 +28,4 @@ C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\obj\Debug\netcoreap
 C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.dll
 C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.pdb
 C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.csproj.CopyComplete
+C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
