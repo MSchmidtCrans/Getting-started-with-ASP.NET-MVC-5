@@ -78,3 +78,8 @@ C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\MvcMovie\bin\Entity
 C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
 C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\MvcMovie\bin\EntityFramework.xml
 C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate.resources
+C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.cache
+C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\laragon\www\Getting-started-with-ASP.NET-and-MVC\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
